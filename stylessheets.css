@@ -11,3 +11,8 @@ p {
     font-size: large;
     
 }
+
+div p {
+
+    align-items: stretch;
+}
